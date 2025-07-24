@@ -91,14 +91,14 @@ int main()
     {
         cin >> arr[i] ;
     }
-    /*
+    
     cout << "\nMaximum number is : " << getMax(size, arr) << endl;
     cout << "Minimum number is : " << getMin(size, arr) << endl;
     cout << "Sum of all elements in array = " << sumArray(arr, size) << endl;
     cout << "Reverse array is : " << endl;
         reversArray(arr, size);
         printArr(arr, size);
-    */
+    
     cout << "Reverse array is : " << endl;
         swapAlternate(arr, size);
         printArr(arr, size);
