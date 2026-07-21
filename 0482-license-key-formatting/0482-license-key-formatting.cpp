@@ -14,12 +14,8 @@ public:
                 ans += '-';
                 count = 0;
             }
-
-            if (islower(c)) {
-                c = toupper(c);
-            }
-
-            ans += c;
+            
+            ans += toupper(c);
             count++;
         }
 
