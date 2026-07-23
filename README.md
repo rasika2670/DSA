@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0482-license-key-formatting](https://github.com/rasika2670/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/rasika2670/DSA/tree/master/0520-detect-capital) |
+| [0831-masking-personal-information](https://github.com/rasika2670/DSA/tree/master/0831-masking-personal-information) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rasika2670/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rasika2670/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
