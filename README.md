@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/rasika2670/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/rasika2670/DSA/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/rasika2670/DSA/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/rasika2670/DSA/tree/master/0831-masking-personal-information) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/rasika2670/DSA/tree/master/1331-rank-transform-of-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/rasika2670/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
