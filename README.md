@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rasika2670/DSA/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/rasika2670/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [1331-rank-transform-of-an-array](https://github.com/rasika2670/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/rasika2670/DSA/tree/master/3731-find-missing-elements) |
 ## String Matching
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rasika2670/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/rasika2670/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/rasika2670/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rasika2670/DSA/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/rasika2670/DSA/tree/master/0622-design-circular-queue) |
