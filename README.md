@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rasika2670/DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/rasika2670/DSA/tree/master/0041-first-missing-positive) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rasika2670/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0622-design-circular-queue](https://github.com/rasika2670/DSA/tree/master/0622-design-circular-queue) |
 | [1260-shift-2d-grid](https://github.com/rasika2670/DSA/tree/master/1260-shift-2d-grid) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rasika2670/DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/rasika2670/DSA/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/rasika2670/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [1331-rank-transform-of-an-array](https://github.com/rasika2670/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/rasika2670/DSA/tree/master/3731-find-missing-elements) |
